@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PPFtest", "PPFtest.csproj", "{68776B45-7A08-2645-2A04-90D596F305AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PPFtest.Editor", "PPFtest.Editor.csproj", "{8D39559B-B050-F254-393A-1C5D5F57EDB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68776B45-7A08-2645-2A04-90D596F305AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68776B45-7A08-2645-2A04-90D596F305AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68776B45-7A08-2645-2A04-90D596F305AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68776B45-7A08-2645-2A04-90D596F305AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D39559B-B050-F254-393A-1C5D5F57EDB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D39559B-B050-F254-393A-1C5D5F57EDB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D39559B-B050-F254-393A-1C5D5F57EDB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D39559B-B050-F254-393A-1C5D5F57EDB9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
