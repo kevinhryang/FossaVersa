@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/VRTKTestSpace.unity
+- path: Assets/Scenes/SkullTestEnvironment1.unity
   isLoaded: 1
   isActive: 1

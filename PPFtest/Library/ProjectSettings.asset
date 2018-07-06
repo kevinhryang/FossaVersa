@@ -737,7 +737,7 @@ PlayerSettings:
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
   cloudProjectId: b475307d-f35e-4104-97cb-44f307b302af
-  projectName: 
+  projectName: PPFtest
   organizationId: unoctium1
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
