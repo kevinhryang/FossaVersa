@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.006862058, g: 0.025196863, b: 0.17772135, a: 1}
+  m_IndirectSpecularColor: {r: 0.0065689497, g: 0.024647195, b: 0.17660038, a: 1}
 --- !u!157 &3
 LightmapSettings:
   m_ObjectHideFlags: 0
@@ -677,7 +677,7 @@ ConfigurableJoint:
   m_Anchor: {x: 0, y: 0.5, z: 0}
   m_Axis: {x: 1, y: 0, z: 0}
   m_AutoConfigureConnectedAnchor: 1
-  m_ConnectedAnchor: {x: 2.303486, y: 0.2544491, z: 0.017171836}
+  m_ConnectedAnchor: {x: 2.3034892, y: 0.25444868, z: 0.017171325}
   serializedVersion: 2
   m_SecondaryAxis: {x: 0, y: 1, z: 0}
   m_XMotion: 2
@@ -838,7 +838,7 @@ MonoBehaviour:
   interactWithoutGrab: 1
   connectedTo: {fileID: 0}
   direction: 0
-  activationDistance: 0.025608616
+  activationDistance: 0.025608504
   buttonStrength: 5
   events:
     OnPush:
@@ -1327,7 +1327,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &178443084
 Transform:
   m_ObjectHideFlags: 0
@@ -1642,7 +1642,7 @@ MonoBehaviour:
   interactWithoutGrab: 1
   connectedTo: {fileID: 0}
   direction: 0
-  activationDistance: 0.046147197
+  activationDistance: 0.04614707
   buttonStrength: 5
   events:
     OnPush:
@@ -1870,7 +1870,7 @@ MonoBehaviour:
   interactWithoutGrab: 1
   connectedTo: {fileID: 0}
   direction: 0
-  activationDistance: 0.046147197
+  activationDistance: 0.04614707
   buttonStrength: 5
   events:
     OnPush:
@@ -2498,16 +2498,16 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 577873219}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -1.6877923, y: 1.3021063, z: -0.30219197}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 1.8160392, y: 0.30170318, z: -0.2082258}
+  m_LocalScale: {x: 5, y: 0.7142857, z: 0.6306204}
   m_Children:
   - {fileID: 728970568}
   - {fileID: 2070736081}
   - {fileID: 1885164917}
   - {fileID: 1178064034}
-  m_Father: {fileID: 0}
-  m_RootOrder: 6
+  m_Father: {fileID: 1380889556}
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &593200037
 GameObject:
@@ -3408,7 +3408,7 @@ MonoBehaviour:
   interactWithoutGrab: 1
   connectedTo: {fileID: 0}
   direction: 0
-  activationDistance: 0.046147197
+  activationDistance: 0.04614707
   buttonStrength: 5
   events:
     OnPush:
@@ -3842,7 +3842,7 @@ MonoBehaviour:
   interactWithoutGrab: 1
   connectedTo: {fileID: 0}
   direction: 0
-  activationDistance: 0.046147197
+  activationDistance: 0.04614707
   buttonStrength: 5
   events:
     OnPush:
@@ -3905,7 +3905,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &958949424
 Transform:
   m_ObjectHideFlags: 0
@@ -4188,7 +4188,7 @@ MonoBehaviour:
   interactWithoutGrab: 1
   connectedTo: {fileID: 0}
   direction: 0
-  activationDistance: 0.046147197
+  activationDistance: 0.04614707
   buttonStrength: 5
   events:
     OnPush:
@@ -4733,7 +4733,7 @@ ConfigurableJoint:
   m_Anchor: {x: 0, y: 0.5, z: 0}
   m_Axis: {x: 1, y: 0, z: 0}
   m_AutoConfigureConnectedAnchor: 1
-  m_ConnectedAnchor: {x: 2.303486, y: 0.2544491, z: 0.017171836}
+  m_ConnectedAnchor: {x: 2.3034892, y: 0.25444868, z: 0.017172605}
   serializedVersion: 2
   m_SecondaryAxis: {x: 0, y: 1, z: 0}
   m_XMotion: 2
@@ -4894,7 +4894,7 @@ MonoBehaviour:
   interactWithoutGrab: 1
   connectedTo: {fileID: 0}
   direction: 0
-  activationDistance: 0.025608616
+  activationDistance: 0.025608504
   buttonStrength: 5
   events:
     OnPush:
@@ -5119,8 +5119,8 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1350001367}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -1.807, y: 1.194, z: -0.30499995}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalPosition: {x: 1.2200005, y: 0.22448444, z: -0.20999657}
+  m_LocalScale: {x: 5, y: 0.7142857, z: 0.6306204}
   m_Children:
   - {fileID: 1529719299}
   - {fileID: 602142259}
@@ -5129,8 +5129,8 @@ Transform:
   - {fileID: 802021812}
   - {fileID: 484228759}
   - {fileID: 1692887014}
-  m_Father: {fileID: 0}
-  m_RootOrder: 5
+  m_Father: {fileID: 1380889556}
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1360435853
 GameObject:
@@ -5280,15 +5280,17 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1380889552}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -2.051, y: 0.87972176, z: 0.027999997}
+  m_LocalRotation: {x: 0, y: -0.7071068, z: 0, w: 0.7071068}
+  m_LocalPosition: {x: 0.03, y: 0.25, z: 1.64}
   m_LocalScale: {x: 0.19999999, y: 1.4, z: 1.58574}
   m_Children:
   - {fileID: 692780776}
   - {fileID: 664663870}
+  - {fileID: 1350001368}
+  - {fileID: 577873220}
   m_Father: {fileID: 0}
   m_RootOrder: 4
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: -90, z: 0}
 --- !u!1 &1389312068
 GameObject:
   m_ObjectHideFlags: 0
@@ -5729,7 +5731,7 @@ ConfigurableJoint:
   m_Anchor: {x: 0, y: 0.5, z: 0}
   m_Axis: {x: 1, y: 0, z: 0}
   m_AutoConfigureConnectedAnchor: 1
-  m_ConnectedAnchor: {x: 2.303486, y: 0.2544491, z: 0.017171836}
+  m_ConnectedAnchor: {x: 2.3034854, y: 0.25444868, z: 0.017171644}
   serializedVersion: 2
   m_SecondaryAxis: {x: 0, y: 1, z: 0}
   m_XMotion: 2
@@ -5890,7 +5892,7 @@ MonoBehaviour:
   interactWithoutGrab: 1
   connectedTo: {fileID: 0}
   direction: 0
-  activationDistance: 0.025608616
+  activationDistance: 0.025608504
   buttonStrength: 5
   events:
     OnPush:
@@ -6034,7 +6036,7 @@ MonoBehaviour:
   interactWithoutGrab: 1
   connectedTo: {fileID: 0}
   direction: 0
-  activationDistance: 0.046147197
+  activationDistance: 0.04614707
   buttonStrength: 5
   events:
     OnPush:
@@ -6322,7 +6324,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &1603662413
 Transform:
   m_ObjectHideFlags: 0
@@ -6793,7 +6795,7 @@ ConfigurableJoint:
   m_Anchor: {x: 0, y: 0.5, z: 0}
   m_Axis: {x: 1, y: 0, z: 0}
   m_AutoConfigureConnectedAnchor: 1
-  m_ConnectedAnchor: {x: 2.303486, y: 0.2544491, z: 0.017171836}
+  m_ConnectedAnchor: {x: 2.3034866, y: 0.25444868, z: 0.017172093}
   serializedVersion: 2
   m_SecondaryAxis: {x: 0, y: 1, z: 0}
   m_XMotion: 2
@@ -6954,7 +6956,7 @@ MonoBehaviour:
   interactWithoutGrab: 1
   connectedTo: {fileID: 0}
   direction: 0
-  activationDistance: 0.025608616
+  activationDistance: 0.025608504
   buttonStrength: 5
   events:
     OnPush:
@@ -7163,7 +7165,7 @@ MonoBehaviour:
   interactWithoutGrab: 1
   connectedTo: {fileID: 0}
   direction: 0
-  activationDistance: 0.046147197
+  activationDistance: 0.04614707
   buttonStrength: 5
   events:
     OnPush:
